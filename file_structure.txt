@@ -1,0 +1,26 @@
+ 599-project/
+│
+├── docs/             
+│   ├── index.md     
+│   ├── installation.md  
+│   └── contributing.md  
+│
+├── data/            
+│   ├── landsat 
+│   │   ├── landsat.tiff
+│   │   └── landsat.tiff
+│   ├── climate 
+│   │   ├── climate.tiff
+│   │   └── climate.tiff
+│   ├── dem
+│   │   └── dem
+│
+├── scripts/         
+│   ├── clean_input_data_01.R
+│   ├── merge_landsat_02.R
+│   ├── run_index_model_03.R
+│   └── generate_plot_04.R 
+│
+├── .gitignore       
+├── README.md        
+├── LICENSE          
